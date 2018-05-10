@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="kuloSpace:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/kuloSpace_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="kuloSpace/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="kuloSpace" />
+        </element>
+        <element id="javaee-facet-resources" facet="kuloSpace/web/Web" />
+      </element>
+    </root>
+  </artifact>
+</component>
